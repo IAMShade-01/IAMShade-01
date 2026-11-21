@@ -93,28 +93,52 @@ Projects below highlight practical engineering work, labs and portfolio builds. 
 
 ## 🏅 Certifications & Professional Credentials
 
-### CompTIA
-- **CompTIA SecurityX (CAS-005)** — Certified October 4, 2026 · Valid through October 4, 2029
-- **CompTIA Security Analytics Expert (CSAE)** — Stackable professional designation · Awarded October 4, 2026
-- **CompTIA Secure Infrastructure Expert (CSIE)** — Stackable professional designation · Awarded October 4, 2026
-- CompTIA Security+, CySA+, PenTest+
-- CompTIA Network Security Professional (CNSP)
-- CompTIA Network Vulnerability Assessment Professional (CNVP)
-- CompTIA Security Analytics Professional (CSAP)
+<div align="center">
 
-### Microsoft
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure AI Fundamentals (AI-900)
+<img src="https://img.shields.io/badge/CompTIA-SecurityX-151B2B?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA SecurityX" />
+<img src="https://img.shields.io/badge/CompTIA-CSAE-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security Analytics Expert" />
+<img src="https://img.shields.io/badge/CompTIA-CSIE-334155?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Secure Infrastructure Expert" />
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Identity-Security-4F46E5?style=for-the-badge&logo=auth0&logoColor=white" alt="Identity security" />
 
-### Identity, Security & Infrastructure
-- **SailPoint Identity Security Leader Credential** — Completed October 16, 2026
-- **CyberArk University — The benefits of the CyberArk PAM solution, and how to use it** — Completed October 2, 2026
-- ISC2 Certified in Cybersecurity (CC)
-- Linux Essentials (LPI)
+</div>
 
-[View the certification inventory and credential details](certificates/README.md).
+<div align="center">
+
+**Security Engineering** · **Cloud & Microsoft** · **Identity & Access** · **Infrastructure**
+
+</div>
+
+### Featured credentials
+
+| Credential | Award / status |
+|---|---|
+| **CompTIA SecurityX (CAS-005)** | Certified October 4, 2026 · Valid through October 4, 2029 |
+| **CompTIA Security Analytics Expert (CSAE)** | Stackable designation · October 4, 2026 |
+| **CompTIA Secure Infrastructure Expert (CSIE)** | Stackable designation · October 4, 2026 |
+| **SailPoint Identity Security Leader Credential** | Completed October 16, 2026 |
+| **CyberArk PAM Solution Training** | Completed October 2, 2026 |
+
+### Additional certifications
+
+<details>
+<summary><strong>CompTIA · Microsoft · ISC2 · Linux</strong></summary>
+
+| Area | Credentials |
+|---|---|
+| CompTIA | Security+ · CySA+ · PenTest+ · CNSP · CNVP · CSAP |
+| Microsoft | Azure Administrator Associate (AZ-104) · Identity and Access Administrator Associate (SC-300) |
+| Microsoft Fundamentals | Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) |
+| Security | ISC2 Certified in Cybersecurity (CC) |
+| Linux | Linux Essentials (LPI) |
+
+</details>
+
+<div align="center">
+
+[**Explore the full certification index →**](certificates/README.md)
+
+</div>
 
 ---
 
