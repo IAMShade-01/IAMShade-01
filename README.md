@@ -91,13 +91,38 @@ Projects below highlight practical engineering work, labs and portfolio builds. 
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Professional Credentials
 
-- CompTIA Security+, CySA+, PenTest+, SecurityX
-- Microsoft SC-300, AZ-104, AZ-900, AI-900
-- ISACA CISM exam passed — certification award subject to experience verification
+### CompTIA
+- **CompTIA SecurityX (CAS-005)** — Certified October 4, 2026 · Valid through October 4, 2029
+- **CompTIA Security Analytics Expert (CSAE)** — Stackable professional designation · Awarded October 4, 2026
+- **CompTIA Secure Infrastructure Expert (CSIE)** — Stackable professional designation · Awarded October 4, 2026
+- CompTIA Security+, CySA+, PenTest+
+- CompTIA Network Security Professional (CNSP)
+- CompTIA Network Vulnerability Assessment Professional (CNVP)
+- CompTIA Security Analytics Professional (CSAP)
+
+### Microsoft
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Fundamentals (AI-900)
+
+### Identity, Security & Infrastructure
+- **SailPoint Identity Security Leader Credential** — Completed October 16, 2026
+- **CyberArk University — The benefits of the CyberArk PAM solution, and how to use it** — Completed October 2, 2026
 - ISC2 Certified in Cybersecurity (CC)
-- Linux Essentials and additional identity/security training
+- Linux Essentials (LPI)
+
+[View the certification inventory and credential details](certificates/README.md).
+
+---
+
+## 🎓 Education
+
+- **M.S. in Cybersecurity & Information Assurance** — Western Governors University · September 9, 2026
+- **B.B.A. in Business Administration** — Strayer University · December 2024
+- **Associate in Arts, Business Administration** — Strayer University · September 2023
 
 ---
 
